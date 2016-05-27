@@ -1,0 +1,2 @@
+# libspeex
+Speex codec
